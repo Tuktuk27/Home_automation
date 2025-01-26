@@ -36,9 +36,8 @@ Simulating the Raspberry Pi Environment:
 -	Explored the concept of a headless Raspberry Pi for streamlined operation (using VNC on boot loader: “vncserver :1 -geometry 1280x720 -depth 16”
 -	Finally, use of Oracle VM with a desktop Linux image to simplify the implementation
 
-
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/dd81a92d-87eb-4202-b357-2e67ff2ed9b7">
+    <img width="600" src="https://github.com/user-attachments/assets/dd81a92d-87eb-4202-b357-2e67ff2ed9b7">
 </p>
 
 Environment Setup and System Configuration:
