@@ -49,20 +49,20 @@ Network Configuration and Security Implementation:
 -	Network security solutions to consider: Firewall Configuration, Strong Authentication, for remote access might need to use secure methods such as VPNs (Virtual Private Networks) for encrypted and authenticated remote connections.
 -	Communication “historic” on terminal:
 
+<p align="center">
+    <img width="300" src="https://github.com/user-attachments/assets/681a1470-e13c-466e-b9b0-dbbfe6d8e957">
+</p>
+
 GUI Development:
 -	Utilized Tkinter for creating a user-friendly graphical interface.
 -	Implemented features for lamp and thermostat control, customizable background images, and real-time temperature display.
 
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/681a1470-e13c-466e-b9b0-dbbfe6d8e957">
+    <img width="400" src="https://github.com/user-attachments/assets/43295da7-907f-498d-8846-1e920516a200">
 </p>
 
 Devices Simulation:
 -	Employed Flask for simulating lamps, temperature controllers and sensors, and house lock, each devices having a different URL.
-
-<p align="center">
-    <img width="400" src="https://github.com/user-attachments/assets/43295da7-907f-498d-8846-1e920516a200">
-</p>
 
 The project steps highlight the journey from setting up the virtual environment to implementing security measures and developing a graphical interface for enhanced user interaction. Each step contributes to the overall goal of creating an efficient and user-friendly home automation system.
 
